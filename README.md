@@ -1,1 +1,1 @@
-# Alphabot-Raffle-Bot
+# Raffle-Bot
